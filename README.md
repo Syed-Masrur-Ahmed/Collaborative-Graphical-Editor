@@ -94,11 +94,3 @@ This project implements a collaborative graphical editor inspired by Google Docs
 - Keep the server authoritative to avoid inconsistent sketches.
 
 ---
-
-## Contact / Support
-
-If you have questions or want to discuss implementation strategies, please contact the project maintainer.
-
----
-
-Enjoy building your collaborative sketch editor!
